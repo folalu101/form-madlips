@@ -1,3 +1,5 @@
+// write funtion to print the story when user enter information in the form
+// To call each ID from HTML file and show story after processing the information 
 $(document).ready(function(){
 $("#form-madL").submit(function(event) {
     const boyname1 = $("#boy-name").val();

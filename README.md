@@ -10,4 +10,4 @@
 * CSS/Bootstrap for Styling
 * Common sense
 
-### Copyright &copy Adeyemi B.A
+### Copyright of Adeyemi B.A
